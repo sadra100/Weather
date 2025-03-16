@@ -1,0 +1,1 @@
+This is a simple meteorological program in which the user can view the temperature of their desired city at the open-meteo.com website with the help of an API built on the open-meteo.com website. In this example, I examined the weather in Tehran
